@@ -1,2 +1,2 @@
 # NumericalOperations
-Exercise of Software Engineering module in year 3 ICS.
+Exercise for Software Engineering module in year 3 ICS.
